@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://cancer-detection-api2-869790610266.asia-southeast2.run.app",
+ "frontend-service-url": "https://submissionmlgc-rangga-fa.et.r.appspot.com",
+ "project-id": "submissionmlgc-rangga-fa",
+ "bucket-name": "cancer-api-model-dicoding-bucket"
+}
